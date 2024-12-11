@@ -1,0 +1,35 @@
+.dk input{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+.dk{
+    text-align: center;
+}
+.dang-ky{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    border: 2px solid black;
+    width: 500px;
+    margin-left: 550px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.dang-ky h1{
+    text-align: center;
+}
+.nutdk{
+    margin-top: 10px;
+    margin-left: 45px;
+    height: 30px;
+    font-size: 17px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+.nutdk:hover{
+    color: azure;
+    background-color: black;
+    border: 2px solid chocolate;
+}
